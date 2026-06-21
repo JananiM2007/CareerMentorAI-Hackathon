@@ -1,0 +1,245 @@
+Skill,Course,Platform,Difficulty,Duration
+A/B Testing,Data Science Skills: A/B Testing,Coursera,Intermediate,4 weeks
+AI Safety,AI Safety and Governance,edX,Advanced,6 weeks
+AML,Anti-Money Laundering Concepts,Udemy,Beginner,3 weeks
+API Integration,REST APIs with Python and Flask,Udemy,Intermediate,6 weeks
+AWS,AWS Cloud Practitioner Essentials,AWS Skill Builder,Beginner,4 weeks
+Account Management,Key Account Management Fundamentals,Coursera,Intermediate,4 weeks
+Accounts Payable,Accounts Payable Management,Udemy,Beginner,3 weeks
+Accounts Receivable,Accounts Receivable and Credit Management,Udemy,Beginner,3 weeks
+Adobe XD,User Experience Design Essentials - Adobe XD,Udemy,Beginner,5 weeks
+Agile,Agile Planning and Portfolio Management,edX,Intermediate,6 weeks
+Airflow,Data Pipelines with Apache Airflow,Udemy,Intermediate,4 weeks
+Algorithms,Algorithms Specialization,Coursera,Advanced,12 weeks
+Ansible,Automating Administration with Ansible,Automate,Intermediate,4 weeks
+Apache Spark,Big Data Analysis with Apache Spark,edX,Intermediate,8 weeks
+Arbitration,International Arbitration Law,Coursera,Advanced,6 weeks
+Auditing,Auditing I: Conceptual Foundations of Auditing,Coursera,Intermediate,4 weeks
+Authentication,User Authentication & Authorization in Node.js,Udemy,Intermediate,3 weeks
+Azure,Microsoft Azure Fundamentals (AZ-900),Microsoft Learn,Beginner,4 weeks
+B2B Sales,Sales Training: Building Your B2B Sales Pipeline,Coursera,Intermediate,5 weeks
+BERT,Google BERT Masterclass,Udemy,Advanced,4 weeks
+BLS,Basic Life Support (BLS) Provider Handbook,National CPR Association,Beginner,2 weeks
+BRD,Business Requirements Document (BRD) Writing for BAs,Udemy,Beginner,3 weeks
+Baking,Baking Arts and Pastry Fundamentals,Udemy,Beginner,6 weeks
+Bash,Bash Scripting and Shell Programming,FreeCodeCamp,Beginner,4 weeks
+Big Data,Big Data Specialization,Coursera,Intermediate,12 weeks
+Business Intelligence,Business Intelligence Concepts,edX,Beginner,6 weeks
+C++,Coding for Everyone: C and C++,Coursera,Beginner,8 weeks
+CI/CD,Continuous Integration and Continuous Delivery (CI/CD),Coursera,Intermediate,4 weeks
+CNNs,Convolutional Neural Networks,Coursera,Advanced,4 weeks
+CPR,Cardiopulmonary Resuscitation (CPR) Training,Udemy,Beginner,2 weeks
+CRM,Salesforce CRM Concepts,Udemy,Beginner,4 weeks
+CSS3,Advanced CSS and Sass: Flexbox Grid Animations,Udemy,Intermediate,6 weeks
+CUDA,Introduction to Parallel Programming with CUDA,Udemy,Advanced,6 weeks
+Case Analysis,Legal Case Analysis and Documentation,Coursera,Intermediate,4 weeks
+Child Psychology,Introduction to Child Psychology,Coursera,Beginner,6 weeks
+Classroom Management,Classroom Management Strategies for Teachers,Udemy,Beginner,4 weeks
+Client Counseling,Effective Client Counseling for Lawyers,Udemy,Intermediate,3 weeks
+Client Relationship Management,Client Relationship Management for BDEs,Coursera,Intermediate,4 weeks
+Clinical Skills,Clinical Skills for Healthcare Providers,Coursera,Intermediate,8 weeks
+Closing Deals,Sales Training: Practical Techniques for Closing Deals,Udemy,Intermediate,3 weeks
+Cloud AI Services,Implementing Cloud AI Services,edX,Intermediate,5 weeks
+Cloud Data Services,Exploring Cloud Data Services,edX,Beginner,4 weeks
+Cloud Infrastructure,Cloud Infrastructure Technologies,edX,Beginner,6 weeks
+Cloud Security,AWS Cloud Security Fundamentals,AWS Skill Builder,Intermediate,4 weeks
+Code Review,Code Review Best Practices,Udemy,Intermediate,2 weeks
+Cold Calling,Cold Calling Masterclass: Lead Generation,Udemy,Beginner,3 weeks
+Communication,Improving Communication Skills,Coursera,Beginner,4 weeks
+CompTIA Security+,CompTIA Security+ Certification Course,Udemy,Intermediate,8 weeks
+Competitive Analysis,Competitive Analysis and Market Assessment,Coursera,Intermediate,4 weeks
+Compliance,Compliance in Financial Institutions,Coursera,Intermediate,5 weeks
+Conflict Resolution,Conflict Resolution Skills,Coursera,Beginner,4 weeks
+Contracts,Contract Law: From Trust to Promise to Contract,edX,Beginner,8 weeks
+Core Banking Systems,Introduction to Core Banking Solutions,Udemy,Beginner,4 weeks
+Corporate Law,Corporate Law Specialization,Coursera,Advanced,10 weeks
+Cost Control,Cost Control and Restaurant Management,Udemy,Intermediate,5 weeks
+Creative Writing,Creative Writing Specialization,Coursera,Beginner,12 weeks
+Credit Risk Assessment,Credit Risk Modeling in Python,Udemy,Advanced,6 weeks
+Cross-Examination,Art of Cross-Examination,Udemy,Advanced,4 weeks
+Cross-Selling,Cross-Selling and Upselling Financial Products,Udemy,Intermediate,3 weeks
+Cross-functional Leadership,Leading Cross-Functional Teams,Coursera,Advanced,4 weeks
+Culinary Arts,Introduction to Culinary Arts,Udemy,Beginner,8 weeks
+Curriculum Development,Curriculum Design and Instructional Leadership,edX,Intermediate,6 weeks
+Customer Relationship Management,Customer Relationship Management Fundamentals,edX,Beginner,4 weeks
+Dashboard Design,Dashboard Design and Best Practices,Coursera,Intermediate,4 weeks
+Data Analysis,Google Data Analytics Professional Certificate,Google Career Certificates,Beginner,16 weeks
+Data Analytics,Data Analytics for Business Professionals,Coursera,Beginner,6 weeks
+Data Cleaning,Data Cleaning and Preprocessing with Python,Udemy,Intermediate,4 weeks
+Data Modeling,Data Modeling Concepts,edX,Intermediate,6 weeks
+Data Pipelines,Building Automated Data Pipelines,Udemy,Intermediate,5 weeks
+Data Structures,Data Structures and Algorithms Specialization,Coursera,Intermediate,16 weeks
+Data Visualization,Data Visualization with Tableau Specialization,Coursera,Beginner,10 weeks
+Data Warehousing,Data Warehousing for Business Intelligence,Coursera,Intermediate,8 weeks
+Databricks,Databricks Certified Data Engineer Associate,Udemy,Intermediate,6 weeks
+Debugging,Debugging Software Systems,edX,Intermediate,4 weeks
+Deep Learning,Deep Learning Specialization,Coursera,Advanced,16 weeks
+Deployment,Deploying Web Applications to Production,FreeCodeCamp,Intermediate,4 weeks
+Design Systems,Building Modern Design Systems with Figma,Udemy,Advanced,5 weeks
+Differentiated Instruction,Differentiated Instruction Strategies for Classrooms,Udemy,Intermediate,4 weeks
+Docker,Docker for Beginners,FreeCodeCamp,Beginner,3 weeks
+ETL,Extract Transform Load (ETL) Essentials,Udemy,Beginner,4 weeks
+Educational Technology,Using Educational Technology in the Classroom,Coursera,Beginner,5 weeks
+Electronic Health Records,Using Electronic Health Records in Healthcare,Coursera,Beginner,4 weeks
+Empathy,Empathy and Emotional Intelligence at Work,edX,Beginner,3 weeks
+Employee Relations,Managing Employee Relations,Coursera,Intermediate,5 weeks
+Ethical Hacking,Learn Ethical Hacking From Scratch,Udemy,Beginner,12 weeks
+Excel,Excel Skills for Business Specialization,Coursera,Beginner,12 weeks
+Express,Node.js and Express Framework,FreeCodeCamp,Intermediate,6 weeks
+FRD,Functional Requirements Document (FRD) Blueprint,Udemy,Intermediate,3 weeks
+Feature Engineering,Feature Engineering for Machine Learning,Udemy,Intermediate,4 weeks
+Few-Shot Learning,Advanced Few-Shot Learning Approaches,Udemy,Advanced,3 weeks
+Figma,Figma UI/UX Design Essentials,Udemy,Beginner,6 weeks
+Financial Analysis,Language and Tools of Financial Analysis,Coursera,Beginner,4 weeks
+Financial Reporting,Financial Reporting Specialization,Coursera,Intermediate,12 weeks
+Firewalls,Network Firewalls and Routing Architecture,Cisco Networking Academy,Intermediate,6 weeks
+Flavor Profiling,The Science of Taste and Flavor Profiling,Udemy,Intermediate,4 weeks
+Food Safety,Food Safety & Sanitation Management (HACCP),Udemy,Beginner,3 weeks
+GAAP,US GAAP Fundamentals,Udemy,Beginner,5 weeks
+General Ledger,Accounting Principles: General Ledger Management,Udemy,Beginner,4 weeks
+Generative AI,Generative AI for Everyone,Coursera,Beginner,3 weeks
+Git,Version Control with Git,Coursera,Beginner,4 weeks
+Google Cloud Platform,Google Cloud Digital Leader Training,Google Career Certificates,Beginner,5 weeks
+HRMS,Introduction to HRMS and Workday Foundations,Udemy,Beginner,4 weeks
+HTML5,HTML5 and CSS3 Fundamentals,FreeCodeCamp,Beginner,5 weeks
+Hadoop,The Ultimate Hands-On Hadoop,Udemy,Intermediate,8 weeks
+IAM,AWS Identity and Access Management (IAM),AWS Skill Builder,Intermediate,3 weeks
+IDS/IPS,Intrusion Detection and Prevention Systems,Cisco Networking Academy,Intermediate,5 weeks
+IFRS,IFRS Primer: International Financial Reporting Standards,Udemy,Intermediate,6 weeks
+Identity and Access Management,Identity and Access Management (IAM) Concepts,edX,Intermediate,4 weeks
+Image Processing,Digital Image Processing Fundamentals,edX,Intermediate,6 weeks
+Image Segmentation,Deep Learning for Image Segmentation,Udemy,Advanced,4 weeks
+Incident Response,Cybersecurity Incident Response Blueprint,Udemy,Intermediate,5 weeks
+Infection Control,Infection Prevention and Control in Healthcare,Coursera,Beginner,3 weeks
+Information Architecture,Information Architecture for UX Designers,Coursera,Intermediate,4 weeks
+Information Retrieval,Information Retrieval and Search Engines,edX,Advanced,8 weeks
+Infrastructure as Code,Infrastructure as Code (IaC) with Terraform,Udemy,Intermediate,6 weeks
+Interaction Design,Interaction Design Specialization,Coursera,Intermediate,10 weeks
+Interdisciplinary Collaboration,Interdisciplinary Collaboration in Healthcare,Coursera,Intermediate,4 weeks
+Inventory Control,Inventory Management and Control Optimization,Udemy,Intermediate,4 weeks
+Investment Products,Understanding Global Investment Products,Udemy,Beginner,5 weeks
+Iterative Testing,Iterative Testing and Evaluation in AI,Udemy,Advanced,4 weeks
+Java,Java Programming and Software Engineering Fundamentals,Coursera,Beginner,10 weeks
+JavaScript,JavaScript Algorithms and Data Structures,FreeCodeCamp,Beginner,10 weeks
+Jenkins,Jenkins From Zero to Hero: Become a DevOps Jenkins Master,Udemy,Intermediate,5 weeks
+Jira,Agile Leadership and Resourcing with Jira,Coursera,Beginner,4 weeks
+KYC,Know Your Customer (KYC) Compliance Framework,Udemy,Beginner,3 weeks
+Kafka,Apache Kafka for Beginners,Udemy,Intermediate,5 weeks
+Kitchen Management,Commercial Kitchen Management Operations,Udemy,Intermediate,6 weeks
+Knife Skills,Culinary Knife Skills Masterclass,Udemy,Beginner,2 weeks
+Kubernetes,Certified Kubernetes Administrator (CKA) Academy,Udemy,Advanced,8 weeks
+LLMs,Large Language Models (LLMs) Foundations,Coursera,Intermediate,4 weeks
+Labor Laws,Employment and Labor Laws Fundamentals,Udemy,Intermediate,5 weeks
+Large Language Models,Understanding Large Language Models,edX,Intermediate,5 weeks
+Lead Generation,B2B Lead Generation Strategy,Udemy,Beginner,4 weeks
+Legal Drafting,Art of Legal Drafting,Udemy,Intermediate,5 weeks
+Legal Research,Legal Research Foundations,Coursera,Beginner,4 weeks
+Legal Writing,Advanced Legal Writing and Analysis,Coursera,Intermediate,6 weeks
+Lesson Planning,Instructional Design and Lesson Planning,Coursera,Beginner,4 weeks
+Linux,Linux Fundamentals,Cisco Networking Academy,Beginner,6 weeks
+Litigation,Introduction to Civil Litigation,Udemy,Intermediate,6 weeks
+Loans Processing,Commercial Loan Processing Fundamentals,Udemy,Intermediate,5 weeks
+MLOps,MLOps (Machine Learning Operations) Fundamentals,Coursera,Advanced,8 weeks
+Machine Learning,Machine Learning Specialization,Coursera,Intermediate,12 weeks
+Market Analysis,Market Analysis and Competitive Intelligence,Coursera,Intermediate,4 weeks
+Market Research,Market Research Specialization,Coursera,Beginner,8 weeks
+MediaPipe,Building AI Applications with MediaPipe,Udemy,Intermediate,4 weeks
+Medical Diagnosis,Clinical Diagnosis and Decision Making,Coursera,Advanced,10 weeks
+Medical Ethics,An Introduction to Global Medical Ethics,edX,Beginner,4 weeks
+Menu Planning,Menu Planning and Cost Optimization,Udemy,Intermediate,4 weeks
+Model Deployment,Deploying Machine Learning Models,Udemy,Advanced,5 weeks
+MongoDB,MongoDB Basics,Coursera,Beginner,4 weeks
+Monitoring and Logging,DevOps Monitoring and Logging Pipelines,Udemy,Intermediate,4 weeks
+NLTK,Natural Language Processing with Python and NLTK,Udemy,Intermediate,6 weeks
+Natural Language Processing,Natural Language Processing Specialization,Coursera,Advanced,12 weeks
+Negotiation,Successful Negotiation: Essential Strategies and Skills,Coursera,Beginner,4 weeks
+Network Security,Network Defense and Security Fundamentals,Cisco Networking Academy,Intermediate,8 weeks
+Networking,Computer Networking Specialization,Coursera,Beginner,8 weeks
+Neural Networks,Neural Networks and Deep Learning,Coursera,Advanced,4 weeks
+NoSQL,Introduction to NoSQL Databases,Coursera,Beginner,4 weeks
+Node.js, Express and MongoDB Dev to Deployment,Udemy,Intermediate,8 weeks
+NumPy,Data Science Foundations: NumPy and Pandas,FreeCodeCamp,Beginner,3 weeks
+Object Detection,Object Detection and Tracking with Deep Learning,Udemy,Advanced,5 weeks
+Object-Oriented Programming,Object Oriented Programming in Java,Coursera,Beginner,6 weeks
+Onboarding,Strategic Employee Onboarding Frameworks,Udemy,Beginner,3 weeks
+OpenCV,Computer Vision I: Introduction to OpenCV,Udemy,Intermediate,6 weeks
+PRD,Product Requirement Documents (PRD) Masterclass,Udemy,Intermediate,3 weeks
+Pandas,Data Analysis with Pandas and Python,Udemy,Intermediate,4 weeks
+Parent-Teacher Collaboration,Building Parent-Teacher Partnerships,Udemy,Beginner,3 weeks
+Patient Care,Introduction to Patient Care and Nursing Basics,Coursera,Beginner,6 weeks
+Patient Education,Patient Education and Communication Strategies,Udemy,Beginner,3 weeks
+Payroll,Payroll Management and Statutory Compliance,Udemy,Beginner,4 weeks
+Penetration Testing,Penetration Testing and Ethical Hacking,Coursera,Advanced,10 weeks
+Performance Management,Strategic Performance Management,Coursera,Intermediate,5 weeks
+Pharmacology,Understanding Pharmacology and Drug Actions,edX,Advanced,8 weeks
+Plating,The Art of Food Plating and Presentation,Udemy,Beginner,2 weeks
+Power BI,Microsoft Power BI Data Analyst Professional Certificate,Coursera,Beginner,12 weeks
+Presentation Skills,Effective Presentation Skills for Professionals,Coursera,Beginner,3 weeks
+Process Mapping,Business Process Mapping and Modeling,Udemy,Beginner,4 weeks
+Product Lifecycle,Managing the Product Lifecycle,edX,Intermediate,6 weeks
+Product Roadmap,Product Roadmapping: From Strategy to Execution,Udemy,Intermediate,3 weeks
+Prompt Optimization,Advanced Prompt Engineering Techniques,Coursera,Advanced,4 weeks
+Proposal Writing,Winning Business Proposal Writing,Udemy,Intermediate,4 weeks
+Prototyping,UX Design: Prototyping and Testing,Visuals,Intermediate,5 weeks
+Public Speaking,Introduction to Public Speaking,Coursera,Beginner,4 weeks
+PyTorch,Deep Learning with PyTorch,Coursera,Intermediate,6 weeks
+Python,Python for Everybody Specialization,Coursera,Beginner,8 weeks
+QuickBooks,QuickBooks Online Essential Training,Udemy,Beginner,6 weeks
+R,Data Science: Foundations using R Specialization,Coursera,Beginner,8 weeks
+RESTful APIs,Building RESTful APIs with Node and Express,FreeCodeCamp,Intermediate,5 weeks
+React,Developing Front-End Apps with React,Coursera,Intermediate,6 weeks
+Reconciliation,Bank and Financial Account Reconciliation,Udemy,Beginner,2 weeks
+Recruitment,Recruitment and Talent Sourcing Strategy,LinkedIn,Beginner,4 weeks
+Regex,Mastering Regular Expressions (Regex),FreeCodeCamp,Beginner,2 weeks
+Reporting,Business Reporting and Analytics,edX,Beginner,4 weeks
+Requirements Gathering,Requirements Gathering & Extraction Interviewing,Udemy,Beginner,4 weeks
+Responsive Design,Responsive Web Design Certification,FreeCodeCamp,Beginner,8 weeks
+Responsive Web Design,Advanced Responsive Web Design Frameworks,Udemy,Intermediate,5 weeks
+Retail Banking,Retail Banking Functions and Strategy,Udemy,Beginner,6 weeks
+SIEM,Security Information and Event Management (SIEM) Foundations,Udemy,Intermediate,5 weeks
+SQL,SQL for Data Science,Coursera,Beginner,4 weeks
+Sales Forecasting,Sales Forecasting Essentials for Managers,Udemy,Intermediate,3 weeks
+Sales Pipeline,Building a Sustainable Sales Pipeline,Coursera,Intermediate,4 weeks
+Sales Pitching,Perfecting the Sales Pitch,Udemy,Beginner,3 weeks
+Sanitation Regulations,Food Sanitation and Health Safety Regulations,Udemy,Beginner,3 weeks
+Scikit-Learn,Machine Learning with Python and Scikit-Learn,Udemy,Intermediate,6 weeks
+Scrum,Scrum Master Certification Training,Coursera,Beginner,5 weeks
+Sequence-to-Sequence,Sequence Models and Seq2Seq Architecture,Coursera,Advanced,4 weeks
+Site Reliability,Introduction to Site Reliability Engineering (SRE),Coursera,Intermediate,6 weeks
+Software Architecture,Software Architecture & Design Patterns,Udemy,Advanced,8 weeks
+SpaPy,Advanced NLP with SpaPy,Udemy,Intermediate,4 weeks
+Stakeholder Management,Managing Stakeholder Relations,edX,Intermediate,4 weeks
+Statistics,Introduction to Statistics,Coursera,Beginner,6 weeks
+Strategic Partnerships,Building Strategic Business Partnerships,Coursera,Advanced,5 weeks
+Student Assessment,Student Assessment and Evaluation Practices,Udemy,Intermediate,4 weeks
+Subject Matter Expertise,Developing Subject Matter Expertise in Education,edX,Advanced,6 weeks
+SysOps,AWS Certified SysOps Administrator - Associate,AWS Skill Builder,Advanced,8 weeks
+System Design,System Design Interview Guide,Udemy,Advanced,8 weeks
+System Prompts,Architecting Enterprise System Prompts,Udemy,Advanced,3 weeks
+Tableau,Tableau Desktop Certified Associate Training,Udemy,Intermediate,6 weeks
+Talent Acquisition,Talent Acquisition and Hiring Strategy,Coursera,Intermediate,6 weeks
+Tally,Tally Prime Comprehensive Training Course,Udemy,Beginner,8 weeks
+Taxation,Introduction to Corporate Taxation,Coursera,Intermediate,6 weeks
+Team Leadership,Leadership and Team Management Frameworks,Coursera,Intermediate,6 weeks
+TensorFlow,DeepLearning.AI TensorFlow Developer Professional Certificate,Coursera,Intermediate,12 weeks
+Terraform,HashiCorp Certified: Terraform Associate,Udemy,Intermediate,6 weeks
+Text Mining,Text Mining and Analytics,Coursera,Advanced,6 weeks
+Threat Intelligence,Cyber Threat Intelligence Fundamentals,Udemy,Advanced,4 weeks
+Tokenization,Text Preprocessing and Tokenization in NLP,Udemy,Intermediate,3 weeks
+Training and Development,Employee Training and Development Specialization,Coursera,Intermediate,6 weeks
+Transformers,Transformers and Attention Evaluation,Coursera,Advanced,4 weeks
+TypeScript,Understanding TypeScript: Complete Developer's Guide,Udemy,Intermediate,6 weeks
+UI/UX Principles,Introduction to UI/UX Design Principles,Coursera,Beginner,5 weeks
+UML,UML Diagrams for Software Architecture,Udemy,Beginner,3 weeks
+Unit Testing,Java Unit Testing with JUnit 5,Udemy,Intermediate,3 weeks
+Usability Testing,Conducting Effective Usability Testing,Coursera,Intermediate,4 weeks
+User Personas,UX Design: Creating User Personas,Udemy,Beginner,2 weeks
+User Research,User Research and Evaluation Methods,edX,Beginner,5 weeks
+User Stories,Writing Excellent Agile User Stories,Udemy,Beginner,3 weeks
+Visio,Microsoft Visio Masterclass: Learn Visio Pro,Udemy,Beginner,4 weeks
+Visual Design,Visual Design Elements for UI/UX,Coursera,Beginner,6 weeks
+Vulnerability Assessment,Vulnerability Management Fundamentals,Udemy,Intermediate,5 weeks
+Wireframing,UX Design: Wireframing and Low-Fidelity Prototyping,Coursera,Beginner,4 weeks
+Wireshark,Wireshark Packet Analysis Masterclass,Udemy,Advanced,6 weeks
+Workforce Planning,Strategic Workforce Planning,Coursera,Advanced,5 weeks
+YOLO,Real-Time Object Detection with YOLO,Udemy,Advanced,5 weeks
